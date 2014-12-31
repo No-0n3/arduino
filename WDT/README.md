@@ -44,7 +44,7 @@ These functions are macros for inline assembler code.
 
 <li>
 <ul>resetWatchdog() - Resets the watchdog timer</ul>
-<ul>enableWatchdog(timeout, mode) - Enable the watchdog. Use the defines that have been mentioned earlier. Do not <ul>call it from an interrupt vector!</ul>
+<ul>enableWatchdog(timeout, mode) - Enable the watchdog. Use the defines that have been mentioned earlier. Do not call it from an interrupt vector!</ul>
 <ul>disableWatchdog() - Disable the watchdog. Do not call it from an interrupt vector!</ul>
 </li>
 
