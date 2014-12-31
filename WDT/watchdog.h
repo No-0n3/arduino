@@ -227,6 +227,7 @@ ISR(WDT_vect) {
 	}
 }
 #endif
-
+#else
+#error The processor is not supported!
 #endif
 #endif /* _WATCHDOG_H_ */
