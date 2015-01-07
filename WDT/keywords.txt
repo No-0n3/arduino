@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For WDT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+enableWatchdog	KEYWORD2
+disableWatchdog	KEYWORD2
+resetWatchdog	KEYWORD2
+attachWatchdogInterrupt	KEYWORD2
+detachWatchdogInterrupt	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+WDT_INT_M	LITERAL1
+WDT_RST_M	LITERAL1
+WDT_IR_M	LITERAL1
+WDTO_16MS	LITERAL1
+WDTO_32MS	LITERAL1
+WDTO_64MS	LITERAL1
+WDTO_125MS	LITERAL1
+WDTO_250MS	LITERAL1
+WDTO_500MS	LITERAL1
+WDTO_1S	LITERAL1
+WDTO_2S	LITERAL1
+WDTO_4S	LITERAL1
+WDTO_8S	LITERAL1
